@@ -10,7 +10,7 @@ At Ryu Development, we're passionate about Minecraft servers and dedicated to cr
 
 Here's a list of some of our featured projects:
 
-- [Ryu Core](link_to_ryu_core): Ryu Core is a comprehensive ranking system for Minecraft servers with a wide range of features. It also provides a Developer API for further customization and integration.
+- [rCore](https://github.com/RyuDevelopment/rCore): rCore is a comprehensive ranking system for Minecraft servers with a wide range of features. It also provides a [Developer API](https://github.com/RyuDevelopment/rCoreAPI) for further customization and integration.
 
 Explore our repositories to discover more solutions and tools!
 
