@@ -9,9 +9,9 @@ We're Ryu Development, we have a big passion doing minecraft plugins, providing 
 ## Our Featured Projects
 
 Here's a list of some of our featured projects:
-- [rCore](https://github.com/RyuDevelopment/rCore): rCore a plugin to give the best performance and reliability to the customers making our core one of the best on the market. It also provides a [Developer API](https://github.com/RyuDevelopment/rCoreAPI) for further customization and integration.
-- [rLoader](https://github.com/RyuDevelopment/rLoader): rLoader is another private proyect to provide a good performance into the game using our plugins, we try to give a good security and a good service as development using this loader.
-- [rFFA](https://github.com/RyuDevelopment/rFFA): rLoader a powerful and customizable FFA plugin, including death holograms, killstreaks, bounties, scoreboard and another customizable features.
+- [rCore]: rCore a plugin to give the best performance and reliability to the customers making our core one of the best on the market. It also provides a [Developer API](https://github.com/RyuDevelopment/rCoreAPI) for further customization and integration.
+- [rLoader]: rLoader is another private proyect to provide a good performance into the game using our plugins, we try to give a good security and a good service as development using this loader.
+- [rFFA]: rLoader a powerful and customizable FFA plugin, including death holograms, killstreaks, bounties, scoreboard and another customizable features.
 
 Explore our repositories to discover more solutions and tools!
 
