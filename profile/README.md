@@ -2,9 +2,9 @@
 
 Welcome to Ryu Development! We specialize in crafting tailored solutions and tools for Minecraft servers, meticulously designed to elevate the gaming experience, enrich server modalities, and empower server administrators and content creators alike.
 
-## Who We Are
+## About us?
 
-At Ryu Development, we're passionate about Minecraft servers and dedicated to creating innovative solutions that elevate server experiences and foster vibrant communities. Our team comprises experienced developers and dedicated Minecraft enthusiasts who understand the intricacies of server management.
+We're Ryu Development, we have a big passion doing minecraft plugins, providing our services to the community, giving solutions to the commmunity too and making the community a safe place. Our team has experienced developers and dedicated Minecraft enthusiasts who understand the intricacies of server management. As well we try to give a good performance in our plugins, helping people with problems and selling our services.
 
 ## Our Featured Projects
 
