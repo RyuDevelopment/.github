@@ -24,7 +24,7 @@ We'd love for you to join our community and help us enhance our projects! Here a
 
 ## Community
 
-Join our community on [Discord](link_to_discord) for real-time discussions, support, and collaboration with us.
+Join our community on [Discord](https://discord.gg/p7KyF7zwPJ) for real-time discussions, support, and collaboration with us.
 
 ## Contact
 
